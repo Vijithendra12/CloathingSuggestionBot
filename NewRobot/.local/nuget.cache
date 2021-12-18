@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b8v7oYJvlatl+jGFWNm9ReIb3uG5cSgKoMmpUsU2Fe9NO3BYD+ORuYEtCtZ3aiuA8tbChOed+Lm9AHaeAGm4ww==",
+  "dgSpecHash": "Z39UZDcvQlkEqcLl2t+1+OuYiEkMrTCF27pngccfdgHNfO/f3HJ8yvzcP48jsuCBdsCThmx7kpCiwY4X2jONAg==",
   "success": true,
-  "projectFilePath": "D:\\Robot\\NewRobot\\.local\\",
+  "projectFilePath": "E:\\Projects\\CloathingSuggestionBot\\NewRobot\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\vijit\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\vijit\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
